@@ -1,0 +1,12 @@
+.left-menu-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  .three-dots {
+    margin-inline: 10px;
+    margin-block: auto;
+  }
+}
+.antd-collapse {
+  width: 100%;
+}
